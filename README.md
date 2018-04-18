@@ -12,12 +12,24 @@ A dark theme that has been designed with focus and clarity in mind while contain
 
 With support for popular coding languages like HTML, CSS, Javascript and JSON you have everything you need to build amazing products for the web platform with flair and clarity.
 
-## Installation
+## Install
 
-Install the Framer syntax theme via Atom by going to Preferences/Settings > Install and search for Framer Syntax (make sure you're searching under "Themes"), or install through CLI:
+You can install themes in Atom by going to Settings > Install (make sure you're searching under "Themes")
+
+#### 1. Syntax theme
+Search for `Framer Syntax` or install through CLI:
 
 ```
 apm install framer-syntax
 ```
+
+#### 2. UI theme
+Search for `Framer Syntax` or install through CLI:
+
+```
+apm install framer-ui
+```
+
+Read more about the UI theme in it's [repository](https://github.com/framer/syntax-atom-ui).
 
 **Enjoy!**
