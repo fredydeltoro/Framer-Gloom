@@ -24,7 +24,7 @@ apm install framer-syntax
 ```
 
 #### 2. UI theme
-Search for `Framer Syntax` or install through CLI:
+Search for `Framer UI` or install through CLI:
 
 ```
 apm install framer-ui
