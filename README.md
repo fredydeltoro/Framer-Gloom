@@ -31,5 +31,3 @@ apm install framer-ui
 ```
 
 Read more about the UI theme in it's [repository](https://github.com/framer/syntax-atom-ui).
-
-**Enjoy!**
