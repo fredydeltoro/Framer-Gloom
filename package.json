@@ -1,12 +1,9 @@
 {
   "name": "framer-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
-  "description": "A color theme inspired by the Framer Editor",
-  "keywords": [
-    "syntax",
-    "theme"
-  ],
+  "version": "0.0.4",
+  "description": "A syntax theme inspired by Framer’s popular code editor.",
+  "keywords": ["syntax", "theme"],
   "repository": "https://github.com/framer/syntax-atom",
   "license": "MIT",
   "engines": {
