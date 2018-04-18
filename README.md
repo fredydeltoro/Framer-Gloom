@@ -14,7 +14,7 @@ With support for popular coding languages like HTML, CSS, Javascript and JSON yo
 
 ## Install
 
-You can install themes in Atom by going to Settings > Install (make sure you're searching under "Themes")
+You can install themes in Atom by going to Settings → Install (make sure you're searching under "Themes")
 
 #### 1. Syntax theme
 Search for `Framer Syntax` or install through CLI:
