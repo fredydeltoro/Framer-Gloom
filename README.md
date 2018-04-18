@@ -1,4 +1,4 @@
-# Framer Syntax
+# Framer Syntax Theme
 
 ![preview](https://github.com/framer/framersyntax/raw/master/framer-syntax.jpg)
 
