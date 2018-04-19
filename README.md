@@ -17,7 +17,7 @@ This particular theme contains Syntax for use in Atom. Download the UI theme <a 
 You can install themes in Atom by going to Settings → Install (make sure you’re searching under “Themes”)
 
 #### 1. Syntax theme
-Search for `Framer Syntax` or install through CLI:
+Search for `Framer-Syntax` or install through CLI:
 
 ```
 apm install framer-syntax
