@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://946663360620-us-east-1-static-files.s3.amazonaws.com/syntax/logo.png" width="134" height="134"/>
+  <img src="https://946663360620-us-east-1-static-files.s3.amazonaws.com/syntax/logo.png" width="128" height="128"/>
 </p>
 <h1 align="center">Framer Syntax</h1>
 
