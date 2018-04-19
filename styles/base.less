@@ -160,7 +160,7 @@ atom-text-editor {
 }
 
 .syntax--variable {
-  color: #fff;
+  color: @blue;
 
   &.syntax--interpolation {
     color: darken(@red, 10%);
@@ -169,6 +169,10 @@ atom-text-editor {
   &.syntax--parameter.syntax--function {
     color: #888;
   }
+}
+
+.syntax--object {
+  color: white;
 }
 
 .syntax--invalid.syntax--illegal {
@@ -231,7 +235,7 @@ atom-text-editor {
   }
 
   &.syntax--section.syntax--embedded {
-    color: darken(@red, 10%);
+    color: #888;
   }
 
   &.syntax--section.syntax--property-list {
@@ -267,7 +271,7 @@ atom-text-editor {
 
   &.syntax--other {
     &.syntax--inherited-class {
-      color: @green;
+      color: @cyan;
     }
   }
 
@@ -299,7 +303,7 @@ atom-text-editor {
 }
 
 .syntax--meta {
-  color: #fff ;
+  color: #888 ;
   &.syntax--class {
     color: #888;
   }
