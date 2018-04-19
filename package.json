@@ -1,7 +1,7 @@
 {
   "name": "framer-syntax",
   "theme": "syntax",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A syntax theme inspired by Framer’s popular code editor.",
   "keywords": [
     "syntax",
