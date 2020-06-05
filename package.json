@@ -1,13 +1,13 @@
 {
-  "name": "framer-syntax",
+  "name": "framer-gloom-syntax",
   "theme": "syntax",
-  "version": "1.1.0",
-  "description": "A syntax theme inspired by Framer’s popular code editor.",
+  "version": "1.0.0",
+  "description": "A syntax theme inspired by Framer’s popular code editor and Gloom theme.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/framer/syntax-atom",
+  "repository": "https://github.com/fredydeltoro/Framer-Gloom",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

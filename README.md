@@ -20,7 +20,7 @@ You can install themes in Atom by going to Settings â†’ Install (make sure youâ€
 Search for `Framer-Syntax` or install through CLI:
 
 ```
-apm install framer-syntax
+apm install framer-gloom-syntax
 ```
 
 #### 2. UI theme
