@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Framer Syntax</h1>
 
-<img src="https://946663360620-us-east-1-static-files.s3.amazonaws.com/syntax/atom.png" />
+<img src="https://freddy-storage.s3-us-west-1.amazonaws.com/Framer-Gloom/Framer-Gloom.png" />
 
 ## Introduction
 
