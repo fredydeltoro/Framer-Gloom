@@ -8,16 +8,16 @@
 
 ## Introduction
 
-Framer Syntax is a dark, minimalist theme inspired by Framer’s popular code editor. It supports coding languages like HTML, CSS/SCSS, JS, and JSON, giving you everything you need to build amazing products for the Web.
-
-This particular theme contains Syntax for use in Atom. Download the UI theme <a href="https://github.com/framer/syntax-atom-ui/">here</a>.
+This theme take inspiration from Framer Syntax (https://atom.io/themes/framer-syntax) and Gloom theme (https://atom.io/themes/gloom)
+it takes the language syntax colors from Framer Syntax and the editor colors from Gloom.
+I hope that like and you can improve this theme.
 
 ## Install
 
 You can install themes in Atom by going to Settings → Install (make sure you’re searching under “Themes”)
 
 #### 1. Syntax theme
-Search for `Framer-Syntax` or install through CLI:
+Search for `Framer-Gloom` or install through CLI:
 
 ```
 apm install framer-gloom-syntax
